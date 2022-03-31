@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\TDStringExample\TDStringExample\bin\Debug\TDStringExample.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\TDStringExample\TDStringExample\bin\Debug\TDStringExample.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TDStringExample\TDStringExample\bin\Debug\TDStringExample.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TDStringExample\TDStringExample\obj\Debug\TDStringExample.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\TDStringExample\TDStringExample\obj\Debug\TDStringExample.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TDStringExample\TDStringExample\obj\Debug\TDStringExample.pdb
